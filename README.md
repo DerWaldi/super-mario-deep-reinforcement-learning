@@ -3,7 +3,7 @@
 ## Overview
 
 The aim of this project is to master the game of Super Mario Bros using a Deep Reinforcement Learning approach.<br />
-Therefore a player agent with a Deep Q Learning Model was implemented
+Therefore a player agent with a Deep Q Learning Model was implemented.
 
 ## Installation
 
