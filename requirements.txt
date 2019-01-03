@@ -1,0 +1,5 @@
+tqdm
+numpy
+tensorflow
+gym-super-mario-bros
+skimage
